@@ -1,0 +1,51 @@
+
+body{
+	background-image: ("bg.gif");
+}
+
+#StartButton input{
+	height: 160px;
+	width: 150px;
+	background-size: 100%;
+	position: absolute;
+	right: 4%;
+	bottom: 15%;
+}
+
+#PuzzleGame{
+    width: 1000px;
+    position: absolute;
+    left: 15%;
+    top: 10%;	
+}
+
+
+img{
+	display: block;
+	float: left;
+}
+
+h1{
+	color: red;
+	position: absolute;
+	top: 0%;
+	left:40%;
+}
+h2{
+	color: blue;
+	position: absolute;
+	bottom: 0%;
+	left:34%;
+}
+h3{
+	color: blue;
+	position: absolute;
+	bottom: 40%;
+	right: 5%;
+}
+h4{
+	color: black;
+	position: absolute;
+	top: 0%;
+	right: 3%;
+}
